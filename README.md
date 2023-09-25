@@ -1,2 +1,2 @@
 # Ruby-Website
-Membership Website for Homeowners of Ruby
+Homeowner Website for Ruby Subdivision
